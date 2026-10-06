@@ -1,0 +1,11 @@
+{
+  "name": "smartspend",
+  "version": "0.1.0",
+  "description": "SmartSpend prototype: rule-based salary allocation engine and mobile-first dashboard (PDD Review 1).",
+  "main": "src/engine.js",
+  "scripts": {
+    "test": "node --test test/engine.test.js",
+    "start": "npx --yes serve ."
+  },
+  "license": "MIT"
+}
